@@ -11,4 +11,4 @@ Input:
 Output
    simple interest = p*t*r
 
-   https://github.com/4607-eng/github-final-project/edit/main/README.md 
+#https://github.com/4607-eng/github-final-project/blob/main/README.md 
